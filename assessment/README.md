@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
-## Available Scripts
+### `git clone git@github.com:jagtapb/canonical-vanilla.git`
 
-In the project directory, you can run:
+### `cd canonical-vanilla`
+
+### `cd assessment`
+
+### `npm install`
 
 ### `npm start`
 
