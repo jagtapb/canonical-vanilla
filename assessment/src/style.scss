@@ -1,0 +1,7 @@
+@import "../node_modules/vanilla-framework/index";
+@include vanilla;
+
+.main-header {
+    margin-top: 100px;
+    display: flex;
+}
