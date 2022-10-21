@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import './style.scss';
 
-import DOMPurify from "dompurify";
+//import DOMPurify from "dompurify";
 
 const CardContainer = () => {
     const [cardData, setCardData] = useState([]);
